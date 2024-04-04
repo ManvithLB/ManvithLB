@@ -2,7 +2,7 @@
 
 🚀 React & Django Developer | Building innovative solutions | Passionate about accessibility in coding education
 
-🌐 **Project: Interactive Tool in Regional Language  **  
+🌐 **Project: Interactive Tool in Regional Language**  
 Coding has become an essential skill, unlocking numerous opportunities. However, existing tools primarily cater to English-speaking learners, leaving out those in rural areas who speak regional languages like Kannada. To address this gap, we developed an interactive web application leveraging NLP and web development. It allows students in Karnataka, India, to learn coding basics in Kannada. My contribution involved creating the UI using React and TypeScript.
 
 💻 **Current Project: Legal Assistance using Distributed Cluster HPCC**  
